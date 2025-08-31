@@ -11,7 +11,7 @@ A Netflix-style clone built with **React**, **Firebase Authentication**, **Cloud
 <img width="1919" height="981" alt="image" src="https://github.com/user-attachments/assets/e8fe288e-f109-4b2b-81f7-0766eb7c5edb" />
 
 <img width="1920" height="957" alt="image" src="https://github.com/user-attachments/assets/c07044d0-7054-4d68-b96a-a620186958e5" />
-
+.
 
 
 ## Features
@@ -34,4 +34,5 @@ git clone https://github.com/AdarshYadav-dev/netflix-clone__react.git
 cd netflix-clone__react
 npm install
 npm run dev
+
 
