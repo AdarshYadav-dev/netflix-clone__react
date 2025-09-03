@@ -1,4 +1,4 @@
-# Netflix Clone (React)
+# Netflix Clone (React).
 
 A Netflix-style clone built with **React**, **Firebase Authentication**, **Cloud Firestore**, **OMDb API**, and **YouTube Data API v3**.
 
@@ -34,6 +34,7 @@ git clone https://github.com/AdarshYadav-dev/netflix-clone__react.git
 cd netflix-clone__react
 npm install
 npm run dev
+
 
 
 
